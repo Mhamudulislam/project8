@@ -1,0 +1,46 @@
+.main
+{
+    margin: auto;
+    width: 730px;
+    border: 2px solid rgb(83, 82, 17);
+
+}
+.First_Name,.Last_Name,.email,.password
+{
+    width: 720px;   
+}
+label
+{
+    font-size: 30px;
+    color: rgb(136, 60, 60);
+}
+.EK
+{
+    font-size: 20px;
+}
+body
+{
+    background-color: rgb(29, 177, 133);
+    background-attachment: fixed;
+}
+.messages
+{
+    background-color: rgb(191, 206, 158);
+    font-size: 15px;
+    padding: 1px;
+}
+table
+{
+    width: 100%;
+    border: 2px solid rgb(156, 88, 88);
+}
+td,th
+{
+    font-size: 30px;
+    text-align: center;
+    border: 1px solid rgb(134, 69, 39);
+}
+td:hover
+{
+    background-color: rgb(128, 115, 0) ;
+}
